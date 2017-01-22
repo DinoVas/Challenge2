@@ -1,0 +1,77 @@
+*{
+	font-family: 'Alegreya', serif;
+	font-family: 'Open Sans', sans-serif;
+	
+}
+.navbar-default{
+	background-color:white;
+	border:none;
+}
+
+.header{
+	margin-left:2em;
+	margin-top: 1.75em;
+	margin-right: 7.75em;
+	
+	font-family: 'Open Sans', sans-serif;
+}
+
+.navbar-default .navbar-nav > li > a{
+	color:#173493;
+	font-weight: bold;
+	font-size:100;
+
+}
+
+.banner{
+	background:#173493 url(../img/enchant-your-guests.jpg) top left /1277px 390px no-repeat scroll;
+	height: 380px;
+	margin-left:50px;
+	margin-right: 80px;
+	font-family: 'Alegreya', serif;
+	font-family: 'Open Sans', sans-serif;
+
+}
+
+#heading1{
+    letter-spacing: 2px;
+    text-shadow: 2px 2px 5px black;
+    font-size: 66px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+    font-family: 'Alegreya', serif;
+	
+}
+
+#heading2{
+	font-family: 'Alegreya', serif;
+	text-align: center;
+	color: white;
+	text-shadow: 2px 2px 5px black;
+	font-size:40px;
+	padding-top: 20px;
+}
+
+.btn-info{
+	 font-family: 'Alegreya', serif;
+	width: 217px;
+	height: 64px;
+	position: absolute;
+	left:559px;
+	top:384px;
+	right: 776px;
+	bottom: 418px;
+	background-color: #3E7005;
+	font-size: 2em;
+	border:none;
+}
+
+.banner2{
+	background-color: #173493;
+	width: 1236px;
+	height: 126px;
+	margin-left: 50px;
+	margin-right: 50px;
+}
